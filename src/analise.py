@@ -1,1 +1,1 @@
-print("Projeto de análises de vendas")
+print("Análise de vendas iniciada")
